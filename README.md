@@ -8,6 +8,6 @@ This repository contains short programs dealing with certain tasks.
              (witout using python command sort()). (Python and C++)
    
 4. prison_break - This program calculates number of prisoners freed from a prison represented by a list
-                  os zeros and ones, where 0 represents locked and 1 unlocked cell. Anytime a prisoner is freed
+                  of zeros and ones, where 0 represents locked and 1 unlocked cell. Anytime a prisoner is freed
                   locked cells get unlocked and unlocked ones get locked.
 
